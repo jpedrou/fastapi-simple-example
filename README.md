@@ -1,4 +1,6 @@
-<img src = 'images/fastapi.png'>
+
+<p align = 'center'><img width=100 src = 'images/FastAPI.png'></p>
+<h1 align = 'center'>FastAPI Demonstration</h1>
 
 Demonstration of a simple API for model deployment with Python FastAPI package.
 
